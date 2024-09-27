@@ -2,8 +2,6 @@
 
 <h2>That's Me</h2>
 
-<p>I'am Miguel</p>
-
 
 
 
@@ -13,6 +11,9 @@
 
 
 <!--
+
+  ↳ ⇀ ⇁ ⤷📂
+
 **2Miguel2/2Miguel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
