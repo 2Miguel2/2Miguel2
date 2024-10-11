@@ -1,6 +1,20 @@
-<h1>Hi there 👋</h1>
+# Olá, me chamo Miguel👋
 
-<h2></h2>
+
+
+🤓 Estou aprendendo um pouco de programação e, por enquanto, estou explorando várias áreas.
+
+### Habilidades
+- **Linguagens**: Um pouco de JavaScript, Python e C++.
+- **Web**: Conhecimento básico em HTML e CSS.
+
+### Objetivos
+Meu objetivo é, com meus estudos, conseguir trabalhar na área de programação. Estou aberto a diferentes áreas, pois todas me interessam.
+
+### Interesses
+Além da programação, gosto de jogar no computador.
+
+
 
 <img href="https://en.wikipedia.org/wiki/Markdown" src="Wikipedia-logo-v2.svg.png" width="200">
 
