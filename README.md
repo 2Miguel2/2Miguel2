@@ -14,9 +14,9 @@ Meu objetivo é, com meus estudos, conseguir trabalhar na área de programação
 ### Interesses
 Além da programação, gosto de jogar no computador.
 
-
-
-<img href="https://en.wikipedia.org/wiki/Markdown" src="Wikipedia-logo-v2.svg.png" width="200">
+<a href="https://en.wikipedia.org/wiki/Markdown">
+<img src="Wikipedia-logo-v2.svg.png" width="200">
+</a>
 
 
 <!--
