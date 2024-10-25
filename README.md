@@ -20,6 +20,8 @@ Além da programação, gosto de jogar no computador.
 <img src="Wikipedia-logo-v2.svg.png" width="200"> 
 </a>
 
+![](https://img.shields.io/badge/Mark-Down-orange)
+
 
 <!--
 
