@@ -14,7 +14,7 @@ Meu objetivo é, com meus estudos, conseguir trabalhar na área de programação
 ### Interesses
 Além da programação, gosto de jogar no computador.
 
-### Descubra mais a línguagem de MarkDown clicando na imagem a baixo. 
+**Descubra mais a línguagem de MarkDown clicando na imagem a baixo:**
 
 <a href="https://en.wikipedia.org/wiki/Markdown">
 <img src="Wikipedia-logo-v2.svg.png" width="200"> 
